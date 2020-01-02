@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "阿康的个人简历",
+  "main": "index.js",
+  "repository": "git@github.com:wangxingkang/resume.git",
+  "author": "wangxingkang <wangxingkang@sensoro.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@walrus/cli": "^0.4.1",
+    "husky": "^3.1.0",
+    "typescript": "^3.7.4"
+  }
+}
